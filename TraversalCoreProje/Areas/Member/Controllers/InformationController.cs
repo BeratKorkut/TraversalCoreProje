@@ -7,6 +7,7 @@ namespace TraversalCoreProje.Areas.Member.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
     }
